@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2208.01710">
-    <img src="figures/system.png" alt="Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras" width="1000"/>
+    <img src="figures/system.png" alt="Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras" width="500"/>
   </a>
 </p>
 
