@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="">
-    <img src="figures/pipeline.png" alt="Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras" width="800"/>
+    <img src="figures/pipeline.png" alt="Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras" width="900"/>
   </a>
 </p>
 
