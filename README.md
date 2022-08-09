@@ -1,8 +1,14 @@
 # Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras
 
 <p align="center">
-  <a href="">
-    <img src="figures/pipeline.png" alt="Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras" width="900"/>
+  <a href="https://arxiv.org/abs/2208.01710">
+    <img src="figures/pipeline.png" alt="Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras" width="1000"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2208.01710">
+    <img src="figures/pipeline.png" alt="Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras" width="1000"/>
   </a>
 </p>
 
