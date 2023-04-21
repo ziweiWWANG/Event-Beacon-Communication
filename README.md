@@ -34,9 +34,8 @@ If you use or discuss our algorithm or datasets, please cite our paper as follow
 }
 </pre>
 
-## Code and Data
-Coming soon
-
+## Code and Data - How to Use
+Run [decoder.m](https://github.com/ziweiWWANG/Event-Beacon-Communication/blob/master/decoder.m)
 
 
 ## Notes
