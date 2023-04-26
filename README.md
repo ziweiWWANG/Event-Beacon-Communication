@@ -35,8 +35,8 @@ If you use or discuss our algorithm or datasets, please cite our paper as follow
 </pre>
 
 ## Code and Data - How to Use
-Run [decoder.m](https://github.com/ziweiWWANG/Event-Beacon-Communication/blob/master/decoder.m), it will load event data from [./data](https://github.com/ziweiWWANG/Event-Beacon-Communication/tree/master/data/bright-led-outdoor). 
-[decoder.m](https://github.com/ziweiWWANG/Event-Beacon-Communication/blob/master/decoder.m) outputs decoded message and accuracy rate (message accuracy rate and bit accuracy rate).
+Run [`decoder.m`](https://github.com/ziweiWWANG/Event-Beacon-Communication/blob/master/decoder.m), it will load event data from [./data](https://github.com/ziweiWWANG/Event-Beacon-Communication/tree/master/data/bright-led-outdoor). 
+The decoding code [`decoder.m`](https://github.com/ziweiWWANG/Event-Beacon-Communication/blob/master/decoder.m) outputs decoded message and accuracy rate (message accuracy rate and bit accuracy rate).
 
 
 ## Notes
