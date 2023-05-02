@@ -21,7 +21,7 @@ Ziwei Wang, Yonhon Ng, Jack Henderson and Robert Mahony
 
 The paper was accepted by the IEEE International Conference on Intelligent Robots and Systems (IROS 2022) in Kyoto, Japan.
 
-[[Conference paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9982016)[[arXiv preprint]](https://arxiv.org/abs/2208.01710)
+[[Conference paper]](https://ieeexplore.ieee.org/abstract/document/9982016)[[arXiv preprint]](https://arxiv.org/abs/2208.01710)
 
 ## Citation
 If you use or discuss our algorithm or datasets, please cite our paper as follows:
